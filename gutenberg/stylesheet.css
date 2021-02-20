@@ -1,0 +1,28 @@
+body {
+	margin: 15%;
+	background-color: #fcf7de;
+	background-image: url("https://i.pinimg.com/originals/a1/99/f3/a199f37446cbe1cd6701c693963971c3.jpg");
+}
+
+
+p {
+	color: #52227d;
+	text-indent: 2em;
+	font-family: "Times New Romans", Times, serif; 
+	font-size: 22px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+  	width: 75%;
+  	border: 8px solid #52227d;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 25px;
+	font-family: "Times New Romans", Times, serif; 
+
+}
