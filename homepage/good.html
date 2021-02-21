@@ -15,6 +15,7 @@
     		body {
     			margin: 0;
     			padding: 0;
+    			
     		}
     		.header {
     			margin-top:-40px;
@@ -46,7 +47,17 @@
     			height: 100px;
     		}
     		.article div {
-    			padding: 25px 0px 25px 25px;
+    			padding: 25px 25px 25px 25px;
+    			
+    			right: 40px:
+    		}
+    		.article h3 {
+    			font-family: "Times New Romans", Times, serif; 
+    			font-size: 30px;
+    		}
+    		.article p {
+    			font-family: "Times New Romans", Times, serif; 
+    			font-size: 22px;
     		}
     		#catbig {
     			float: right;
@@ -57,7 +68,7 @@
     		nav {
     			text-align: center;
     			width: 100%;
-    			background: linear-gradient(grey , black)
+    			background: linear-gradient(grey , black);
     		}
     		nav ul{
     			display: inline-flex;
@@ -73,6 +84,36 @@
 			padding-right: 50px;
 			padding-bottom: 10px;
 		}
+		.sidebar {
+    			
+    			background-color: #ebebeb;
+    			right: 0;
+    			padding: 10px;
+    			height: 100%;
+    			float: right;
+    		}
+    		
+		.column {
+			display: grid;
+    			grid-template-columns: 75% auto;
+    			grid-gap: 20px;
+		}
+		.sidebar h2 {
+			font-size: 40px;
+    			font-family: 'Brush Script MT', cursive;
+    			text-align: center;
+		}
+		.sidebar h3 {
+			font-size: 25px;
+    			text-align: center;
+    			color: #12a2db;
+		}
+		.sidebar p {
+			font-size: 20px;
+    			text-align: center;
+    			top: 0;
+		}
+
     		
     	</style>
     </head>
@@ -93,6 +134,7 @@
                 	<li> <a href="#skills">Skills</a></li>
             	</ul>
     	</nav>
+    	<div class="column">
 	<div class="article">
 	    	<div>
 	    		<h3>Who is Bo?</h3>
@@ -135,7 +177,7 @@
     		<h3>Other</h3>
     		<p>Catnip, household plants</p>
     	</div>
-    	<div class="wood"></div>
+    	</div>
     </body>
 </html>
 
