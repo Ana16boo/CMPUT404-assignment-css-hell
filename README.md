@@ -25,3 +25,8 @@ Changes made to HTML files
 =================
 
 For all books added a figcaption tag for all image descriptions
+
+Note
+=================
+
+Because of privacy concerns I decided not to include personal information for Part 2 of this assignment
