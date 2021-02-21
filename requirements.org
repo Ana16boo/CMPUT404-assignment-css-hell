@@ -67,18 +67,18 @@
 
 *** Requirements
 
-    - [ ] 4 sections: who you are, your history, what you have to
+    - [X] 4 sections: who you are, your history, what you have to
       offer, important points about you
     - [ ] 1 Ugly CSS theme
-    - [ ] 1 good CSS theme
+    - [X] 1 good CSS theme
     - [ ] Ugly theme has to be noticeabley different.
     - [ ] 2 HTML files, each with the same content but different CSS
-    - [ ] your photo (try to keep it professional)
+    - [X] your photo (try to keep it professional)
     - [ ] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
-    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
-    - [ ] homepage/good.html should host your good page
-    - [ ] homepage/ugly.html should host your ugly page
+    - [X] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [X] homepage/good.html should host your good page
+    - [X] homepage/ugly.html should host your ugly page
     - [X] gutenberg/1.html should host your first gutenberg book
     - [X] gutenberg/2.html should host your second gutenberg book
     - [X] gutenberg/3.html should host your third gutenberg book
